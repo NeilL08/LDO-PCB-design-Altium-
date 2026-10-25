@@ -1,11 +1,28 @@
 # LDO Voltage Regulator Circuit Design
-A low-dropout (LDO) voltage regulator circuit designed as part of an onboarding assignment for WARG. This board is built to convert 5 votage to 3.3 voltage stably with the AP2210K-3.3 LDO, and the input and output decouping capacitors. 
-# Work Completed:
-researched different LDO's on digikey to find the one that fits the spefication
-costume designed footprint for the LDO
-selected passive components based on datasheet recommendations
-developed the circuit schematic and PCB layout in Altium Designer, including component placement, routing and poewr connections
 
-# Learning Outcome:
-Developed pratical experience with Altium designer, schematic capture, component selection, datasheet interpretation, basic circuit design
+A low-dropout (LDO) voltage regulator circuit designed in Altium Designer as part of a WARG onboarding assignment. The circuit converts a 5 V input to a regulated 3.3 V output using the AP2210K-3.3 LDO regulator and supporting capacitors.
 
+# Work Completed
+
+Researched and compared LDO regulators available through DigiKey to identify a suitable component for the design requirements.
+Created a custom PCB footprint for the LDO regulator in Altium Designer.
+Selected supporting passive components based on datasheet recommendations.
+Developed the circuit schematic and PCB layout, including component placement, routing, and power connections.
+
+# Key Design Specifications
+
+Input voltage: 5 V
+Output voltage: 3.3 V
+Voltage regulator: AP2210K-3.3
+Design software: Altium Designer
+
+# Learning Outcomes
+
+Gained practical experience with Altium Designer and schematic capture.
+Developed skills in PCB footprint creation and component selection.
+Improved understanding of datasheet interpretation and basic power-supply circuit design.
+Practiced PCB component placement, routing, and power-connection design.
+
+# Project Context
+
+Completed as part of a WARG onboarding assignment. 
